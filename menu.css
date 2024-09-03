@@ -1,0 +1,33 @@
+#menu ul li a{
+    background-color: violet;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#menu ul li {
+    list-style-type: none;
+    float: left
+}
+#menu ul li a:hover{
+    background-color: darksalmon;
+    
+}
+.bloco{
+    width: 50%;
+    height:  auto;
+    display: block;
+    background-color: blueviolet;
+
+}
+#menu{
+    width: 100%;
+    display: block;
+    float: left;
+}
+
+img{
+    width: 30px;
+}
+body{
+    background-color: grey;
+}
